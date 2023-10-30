@@ -3,7 +3,7 @@ branches:
     - master
 
 image:
-  - Visual Studio 2017
+  - Visual Studio 2022
 
 stack: python 3.7
 
